@@ -1,0 +1,18 @@
+{
+  "test_records": 1200,
+  "accuracy": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1": 1.0,
+  "confusion_matrix": [
+    [
+      811,
+      0
+    ],
+    [
+      0,
+      389
+    ]
+  ],
+  "note": "Synthetic dataset evaluation only; not evidence of real-world performance."
+}
